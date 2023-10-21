@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="bahubali">BAHUBALI</string>
+    <string name="opal">OPAL</string>
+    <string name="other">OTHER</string>
+    <string name="choose">WELCOME</string>
+    <string name="test">CHOOSE THE TEST</string>
+    <string name="rack">BAHUBALI4X</string>
+    <string name="rack2">BAHUBALI0X</string>
+    <string name="rack3">OPAL</string>
+    <string name="rack4">ASH</string>
+    <string name="rack5">ROVER</string>
+    <string name="l10">L10</string>
+    <string name="l12">L12</string>
+    <string name="burnin">Bur-in</string>
+    <string name="l123">L12-3</string>
+    <string name="SN">S-N</string>
+    <string name="TEST">TEST</string>
+    <string name="STATUS">STATUS</string>
+    <string name="Search">Search servers..</string>
+    <string name="byVD">by Vadym Dmytriiev</string>
+    <string name="debug">DEBUG</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome">WELCOME TO MONITOR</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="feiled_count">FEILED :</string>
+
+
+</resources>
